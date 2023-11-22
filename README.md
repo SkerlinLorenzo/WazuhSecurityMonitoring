@@ -12,10 +12,13 @@ The Wazuh SIEM system was deployed on an Ubuntu server hosted on Linode. Leverag
 ### Key Features
 
 * Multi-Platform Monitoring: The Wazuh system is actively monitoring a diverse set of devices and operating systems, including a MAC laptop, a Windows laptop, a Kali Linux virtual machine, and an Ubuntu virtual machine. This showcases the versatility of Wazuh in handling a variety of environments.
+<img src="https://github.com/SkerlinLorenzo/WazuhSecurityMonitoring/assets/101306083/2d9766ca-6661-4baf-947d-e21fa08803e1"/>
 
 * Agent Deployment: Various Wazuh agents were successfully deployed on the monitored devices, establishing a secure communication channel between the endpoints and the centralized Wazuh server. This allows for comprehensive monitoring and analysis of security events.
+<img src="https://github.com/SkerlinLorenzo/WazuhSecurityMonitoring/assets/101306083/4ac0af1c-ea97-49a0-9389-d31995e6a2a9"/>
 
 * Real-Time Threat Detection: Wazuh's intrusion detection capabilities are actively identifying and alerting on potential security threats across the monitored devices. This enhances the overall security posture by providing real-time insights into suspicious activities.
+<img src="https://github.com/SkerlinLorenzo/WazuhSecurityMonitoring/assets/101306083/8f5dfbd5-6b1d-4a06-baf8-0ff24ae3a0dc"/>
 
 * Vulnerability Management: Elevating the project's capabilities, Wazuh now extends its reach into vulnerability management. It conducts regular assessments on the monitored devices, identifying potential weaknesses and providing insights for proactive security measures.
 
