@@ -30,3 +30,15 @@ The Wazuh SIEM system was deployed on an Ubuntu server hosted on Linode. Leverag
   - Ubuntu virtual machine
  
   
+### Use Case: Safeguarding Ubuntu VM with Wazuh
+#### Overview
+<p>Implemented a cybersecurity initiative in my home lab, where the Wazuh Security Monitoring Project served as the vigilant defender of my MAC, Windows, and two Linux VMs. In this particular use case, my focus shifted to identifying vulnerabilities specifically within the Ubuntu VM. This narrative reflects my proactive efforts in pinpointing and addressing critical configuration vulnerabilities, further strengthening the security posture of the Ubuntu VM within the diverse array of devices in my home lab.</p>
+
+#### Discovery of Weaknesses
+<p>Wazuh identified misconfigurations in the Ubuntu VM, like improper permissions, outdated software, and subtle vulnerabilities. These insights guided my efforts to create a more secure environment by addressing each issue systematically. With Wazuh's straightforward alerts, I could navigate the security landscape of the VM, ensuring that every aspect met the best practices for robust cybersecurity within my home lab.</p>
+
+#### Real-Time Alerts, Swift Response
+<p>Wazuh's real-time alerts notified me instantly. Each alert prompted me to check the Wazuh console for more details about potential threats. This seamless process allowed me to quickly respond to security concerns, ensuring a proactive stance in safeguarding the Ubuntu VM within my home lab.</p>
+
+#### Fortifying Against Future Threats
+<p>With new insights, I set up preventive measures, making the Ubuntu VM highly secure. This use case is not just about protecting a system; it's about creating strong defenses to ensure resilience. By implementing these measures, I fortified the Ubuntu VM against potential security threats, creating a robust and secure environment within my home lab.</p>
